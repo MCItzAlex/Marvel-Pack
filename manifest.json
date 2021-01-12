@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Marvel Pack",
+        "uuid": "2e2b04df-ea41-4eb8-87ca-742168c214af",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "7343a838-0413-49db-a6b0-da2ed85a9847",
+            "version": [0, 0, 1]
+        }
+    ]
+}

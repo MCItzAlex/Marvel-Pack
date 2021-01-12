@@ -1,0 +1,295 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+ {
+      "localization_name": "AntMan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AntMan.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "Wasp",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Wasp.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "BlackPanther",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BlackPanther.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "BlackWidow",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "BlackWidow.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "CaptainAmerica",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CaptainAmerica.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "CaptainAmericaInfinityWar",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "CaptainAmericaInfinityWar.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "CaptainMarvelMCU",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "CaptainMarvelMCU.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Carnage",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Carnage.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Venom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Venom.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Daredevil",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Daredevil.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Deadpool",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Deadpool.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "DrStrange",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "DrStrange.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "EbonyMaw",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "EbonyMaw.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Groot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Groot.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Nebula",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Nebula.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "StarLord",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "StarLord.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Nova",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Nova.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Thanos",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Thanos.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Hulk",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Hulk.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "HumanTorch",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HumanTorch.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "HumanTorchFire",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "HumanTorchFire.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "InvisibleWoman",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "InvisibleWoman.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "MrFantastic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "MrFantastic.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "TheThing",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TheThing.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "IronManMk1",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "IronManMk1.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "IronManMk42",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "IronManMk42.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "IronManMk85",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "IronManMk85.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "IronPatriot",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "IronPatriot.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "KamalaKhan",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "KamalaKhan.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "SpiderMan",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SpiderMan.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "SpiderManHomemade",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SpiderManHomemade.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "SpiderManHomecoming",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SpiderManHomecoming.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "SpiderManFFH",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SpiderManFFH.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "SpiderMan2099",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SpiderMan2099.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "SpiderGwen",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SpiderGwen.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "SpiderManNoir",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "SpiderManNoir.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "ScarletSpider",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "ScarletSpider.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "BigTimeStealth",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BigTimeStealth.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "KidArachnid",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "KidArachnid.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "SpiderWoman",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "SpiderWoman.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "IronSpiderOG",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "IronSpiderOG.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "IronSpiderMCU",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "IronSpiderMCU.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "TaskMaster",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "TaskMaster.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Thor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Thor.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "ThorRagnarok",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "ThorRagnarok.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "WinterSoldier",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WinterSoldier.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "WolverineClassic",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WolverineClassic.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "WolverineBrown",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "WolverineBrown.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Marvel Pack",
+  "localization_name": "MarvelPack"
+}
